@@ -3,7 +3,7 @@
 This Project is simple client side form validator.
 I have used HTML, CSS, JavaScript to build the UI.
 
-Basic Specifications - 
+Basic Specifications - <br/>
 -Create form UI <br/>
 -Show error messages under specific inputs <br/>
 -checkRequired() to accept array of inputs <br/>
